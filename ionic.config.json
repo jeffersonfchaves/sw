@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sw",
+=======
+  "name": "SW",
+>>>>>>> 4e1f9b819b49bbaad09269d50a408e53171f2316
   "integrations": {
     "cordova": {}
   },
